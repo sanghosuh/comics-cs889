@@ -1,2 +1,2 @@
-# comics-cs889
+# comics-presentation
 Presentation for comics
